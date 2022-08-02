@@ -1,10 +1,10 @@
 <h1 align="center">
-  RocketNotes API
+  RocketMovies API
 </h1>
 
 <h2 align="center" >Descrição do Projeto</h2>
 <p align="center">
-RocketNotes API é um projeto Desafio do Nível 08 do Programa Explorer RocketSeat.
+RocketMovies API é um projeto Desafio do Nível 08 do Programa Explorer RocketSeat.
 </p>
 </br>
 
